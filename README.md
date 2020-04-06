@@ -4,8 +4,8 @@ Practice to develop iOS application
 A simple application to play card between user and cpu 
 
 requirements for running:
-** Xcode 11
-** iOS 12.0 and higher
+* Xcode 11
+* iOS 12.0 and higher
 
 
 Gain:
