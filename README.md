@@ -9,6 +9,6 @@ iOS 12.0 and higher
 
 
 Gain:
-# know how to design a launchscreen and design application main screen 
-# familar with the Xcode development environmnet
-# interaction between code and elements in storyboard
+@ know how to design a launchscreen and design application main screen 
+@ familar with the Xcode development environmnet
+@ interaction between code and elements in storyboard
